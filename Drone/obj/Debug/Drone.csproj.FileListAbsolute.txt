@@ -1,0 +1,11 @@
+C:\Users\bilye\Desktop\egid cs2\Drone\bin\Debug\Drone.exe.config
+C:\Users\bilye\Desktop\egid cs2\Drone\bin\Debug\Drone.exe
+C:\Users\bilye\Desktop\egid cs2\Drone\bin\Debug\Drone.pdb
+C:\Users\bilye\Desktop\egid cs2\Drone\obj\Debug\Drone.csproj.AssemblyReference.cache
+C:\Users\bilye\Desktop\egid cs2\Drone\obj\Debug\Drone.csproj.SuggestedBindingRedirects.cache
+C:\Users\bilye\Desktop\egid cs2\Drone\obj\Debug\Drone.Form1.resources
+C:\Users\bilye\Desktop\egid cs2\Drone\obj\Debug\Drone.Properties.Resources.resources
+C:\Users\bilye\Desktop\egid cs2\Drone\obj\Debug\Drone.csproj.GenerateResource.cache
+C:\Users\bilye\Desktop\egid cs2\Drone\obj\Debug\Drone.csproj.CoreCompileInputs.cache
+C:\Users\bilye\Desktop\egid cs2\Drone\obj\Debug\Drone.exe
+C:\Users\bilye\Desktop\egid cs2\Drone\obj\Debug\Drone.pdb
